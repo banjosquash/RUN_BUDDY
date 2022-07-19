@@ -14,4 +14,4 @@ https://lernantino.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by [your name]
 
-# Run Buddy Inc
+### copyright 2019 Run Buddy, Inc 
