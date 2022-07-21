@@ -26,12 +26,6 @@ header {
   /* 2.2 - added flex and removed inline / float properties from h1 and nav */
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-  position:sticky;
-  position: -webkit-sticky;
-  top: 0;
-  z-index: 9999;
 }
 
 header h1 {
@@ -52,6 +46,7 @@ header nav {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 header nav ul {
