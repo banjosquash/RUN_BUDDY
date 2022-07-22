@@ -51,10 +51,11 @@ header nav {
 
 header nav ul {
   display: flex;
-  flex-wrap: wrap;
   justify-content: space-between;
+  flex-wrap: wrap;
   align-items: center;
   list-style: none;
+
 }
 
 header nav ul li a {
@@ -62,6 +63,9 @@ header nav ul li a {
   font-weight: 200;
   font-size: 1.55vw;
   text-shadow: 0 0 10px rgba(0,0,0,0.5);
+  margin: 0 30px;
+  font-weight: lighter;
+  font-size: 1.55vw;
 }
 
 header nav ul li a:hover {
